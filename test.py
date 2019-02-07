@@ -1,2 +1,2 @@
 while True:
-	print("Hey")
+	print("Nanda is a beta bitch")
