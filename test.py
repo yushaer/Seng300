@@ -1,2 +1,5 @@
 while True:
-	print("Nanda is a beta bitch")
+	inp = input()
+
+	if(inp == "Nanda"):
+		print("you are a beta bitch")
